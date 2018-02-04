@@ -58,6 +58,24 @@ electronic voting, and surveillance systems should be made public. Publishing
 these details should improve public confidence in the ACT's election systems.
 
 
+## Timeline
+
+- Early January 2018: Discovery and confirmation of the vulnerabilities
+
+- Early January 2018: Initiated contact with ElectionsACT and Software
+                      Improvements
+
+- 13 January 2018: Initial Disclosure to Software Improvements and via
+                   Software Improvements to ElectionsACT. Disclosed that the
+                   vulnerabilites affect multiple vendors.
+
+- 31 January 2018: Response from ElectionsACT directing me to deal with
+                   Software Improvements
+
+- 3 February 2018: Detailed Disclosure to ElectionsACT. Repeated that the
+                   vulnerabilites affect multiple vendors.
+
+
 ## Detailed Recommendations
 
 To address these vulnerabilities, ElectionsACT should:
