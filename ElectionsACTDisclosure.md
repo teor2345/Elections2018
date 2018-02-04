@@ -251,16 +251,21 @@ preference of the major parties. If the first few votes all preference the same
 major party, then it is very likely that the first few voters voted for them.
 
 
-#### Further Analysis
+#### Further Questions
 
-It is unclear:
-  - if the order of public vote records is the same as the order they are
-    collected in. The code that exports public vote records doesn't seem to
-    be in the [2016 eVACS source code].
-  - if batch numbers change on a predictable schedule.
- -  if the batch numbers in the public vote records as the same as the batch
-    numbers that are collected. The public batch numbers don't seem to match
-    the format in the eVACS source code or [ballot paper record] descriptions.
+Public information about ElectionsACT's systems exists, but parts of it are
+incomplete. In the interests of accuracy, I asked ElectionsACT and Software
+Improvements to clarify:
+
+- if the order of public vote records is the same as the order they are
+  collected in. The code that exports public vote records doesn't seem to
+  be in the [2016 eVACS source code].
+
+- if batch numbers change on a predictable schedule.
+
+- if the batch numbers in the public vote records as the same as the batch
+  numbers that are collected. The public batch numbers don't seem to match
+  the format in the eVACS source code or [ballot paper record] descriptions.
 
 
 ### **V3:** Linking voters to votes using detailed electronic vote data
@@ -317,14 +322,22 @@ link votes to voters. These precise times allow an adversary to be certain
 about which votes belong to which voters.
 
 
-#### Further Analysis
+#### Further Questions
 
-It is unclear:
-  - how much detailed electronic vote data is stored,
-  - which details are collected when electronic electoral rolls are marked,
-  - how much of this detailed electronic electoral roll data is stored,
-  - if there is any surveillance footage that may reveal individual polling
-    times or polling orders.
+Public information about ElectionsACT's systems exists, but parts of it are
+incomplete. In the interests of accuracy, I asked ElectionsACT and Software
+Improvements to clarify:
+
+- if ElectionsACT keeps the id or time_stamp fields when the electronic vote
+  data is stored.
+
+- whether similar fields are collected when electronic electoral rolls are
+  marked.
+
+- if these fields are kept when the electronic electoral roll data is stored.
+
+- if there is any surveillance footage that may reveal individual polling
+  times or polling orders.
 
 
 ## Acknowledgements
