@@ -4,6 +4,20 @@ It might be possible for people to link Australian Capital Territory (ACT)
 voters and their votes from previous elections (2001-2016).
 
 
+## Background
+
+> At the 2016 election, the Commission built upon the achievements of the 2012
+> election. Of particular note was the upgrade of the electronic polling place
+> management system, incorporating the networked marking of names of voters on
+> electronic electoral rolls across all polling places and electronic
+> transmission of results on polling night, and the provision of electronic
+> voting to around 1 in 3 of all ACT voters.
+
+Source: [Report on the ACT Legislative Assembly Election 2016], Page 1
+
+[Report on the ACT Legislative Assembly Election 2016]: https://www.elections.act.gov.au/__data/assets/pdf_file/0016/1044016/Report-on-the-ACT-Legislative-Assembly-Election-2016.pdf "Report on the ACT Legislative Assembly Election 2016"
+
+
 ## Vulnerability Summary
 
 Three related vote disclosure vulnerabilities exist in the ACT's election
@@ -44,21 +58,7 @@ electronic voting, and surveillance systems should be made public. Publishing
 these details should improve public confidence in the ACT's election systems.
 
 
-## Background
-
-> At the 2016 election, the Commission built upon the achievements of the 2012
-> election. Of particular note was the upgrade of the electronic polling place
-> management system, incorporating the networked marking of names of voters on
-> electronic electoral rolls across all polling places and electronic
-> transmission of results on polling night, and the provision of electronic
-> voting to around 1 in 3 of all ACT voters.
-
-Source: [Report on the ACT Legislative Assembly Election 2016], Page 1
-
-[Report on the ACT Legislative Assembly Election 2016]: https://www.elections.act.gov.au/__data/assets/pdf_file/0016/1044016/Report-on-the-ACT-Legislative-Assembly-Election-2016.pdf "Report on the ACT Legislative Assembly Election 2016"
-
-
-## Recommendations
+## Detailed Recommendations
 
 To address these vulnerabilities, ElectionsACT should:
 
@@ -141,7 +141,7 @@ To address these vulnerabilities, ElectionsACT should:
 [eVACS source code]: https://www.elections.act.gov.au/elections_and_voting/electronic_voting_and_counting "eVACS Source Code, 2001-2016"
 
 
-## Vulnerability Details
+## Detailed Vulnerabilities
 
 
 ### **V1:** Public proof of electronic or paper votes
@@ -336,3 +336,8 @@ It would not have been possible to confirm **V2** or discover **V3** without
 access to the eVACS software source code. I want to express my appreciation
 to ElectionsACT and Software Improvements for choosing to make the code public
 so that people can review it.
+
+## Author
+
+T Wilson-Brown, Independent Security Researcher, August 2018
+(they/them pronouns)
