@@ -17,6 +17,25 @@ Source: [Report on the ACT Legislative Assembly Election 2016], Page 1
 
 [Report on the ACT Legislative Assembly Election 2016]: https://www.elections.act.gov.au/__data/assets/pdf_file/0016/1044016/Report-on-the-ACT-Legislative-Assembly-Election-2016.pdf "Report on the ACT Legislative Assembly Election 2016"
 
+> 118A Approval of computer program for electronic voting and vote counting
+>
+> (1) Approval of computer program for electronic voting and vote counting
+> The commissioner may approve 1 or more computer programs for any of the
+> following:
+> (a) to allow electronic voting in an election;
+> ...
+>
+> (2) The commissioner may approve a program under subsection (1) (a) only if
+> the program will—
+> ...
+> (d) not allow a person to find out how a particular elector cast his or her
+> vote.
+> ...
+
+Source: [Electoral Act 1992 (ACT)]
+
+[Electoral Act 1992 (ACT)]: http://www.legislation.act.gov.au/a/1992-71/current/pdf/1992-71.pdf "Electoral Act 1992 (ACT)"
+
 
 ## Vulnerability Summary
 
