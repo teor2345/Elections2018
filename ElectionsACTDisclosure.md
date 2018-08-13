@@ -108,8 +108,10 @@ for similar defects.
 
 - 10 April 2018: Request to Elections ACT for revised disclosure timeframe.
 
-- August 2018: Public disclosure of vulnerability, to allow time for changes
-               to be made before the next ACT election in 2020.
+- 13 August 2018: Public disclosure of vulnerability, to allow time for changes
+                  to be made before the [next ACT election in 2020].
+
+[next ACT election in 2020]: https://www.elections.act.gov.au/elections_and_voting/2020_legislative_assembly_election "2020 Legislative Assembly election"
 
 
 ## Detailed Recommendations
@@ -314,7 +316,7 @@ Improvements to clarify:
   numbers that are collected. The public batch numbers don't seem to match
   the format in the eVACS source code or [ballot paper record] descriptions.
 
-As of 11 August 2018, I have not received a response to these questions.
+As of 13 August 2018, I have not received a response to these questions.
 
 
 ### **V2:** Elections ACT Can Link Voters To Votes Using Order Or Timing
